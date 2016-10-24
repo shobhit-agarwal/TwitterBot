@@ -1,5 +1,6 @@
 __author__ = 'vipulvaibhaw'
 
+
 class WeatherBot:
     def con_secret(self):
         a = ""
